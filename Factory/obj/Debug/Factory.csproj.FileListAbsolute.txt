@@ -1,0 +1,7 @@
+C:\Users\Arun Kumar & Family\source\repos\Factory\Factory\bin\Debug\Factory.exe.config
+C:\Users\Arun Kumar & Family\source\repos\Factory\Factory\bin\Debug\Factory.exe
+C:\Users\Arun Kumar & Family\source\repos\Factory\Factory\bin\Debug\Factory.pdb
+C:\Users\Arun Kumar & Family\source\repos\Factory\Factory\obj\Debug\Factory.csproj.AssemblyReference.cache
+C:\Users\Arun Kumar & Family\source\repos\Factory\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+C:\Users\Arun Kumar & Family\source\repos\Factory\Factory\obj\Debug\Factory.exe
+C:\Users\Arun Kumar & Family\source\repos\Factory\Factory\obj\Debug\Factory.pdb
